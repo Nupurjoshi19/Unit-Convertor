@@ -10,4 +10,4 @@ A simple Python GUI application to convert between different length units (meter
 ## How to Run
 Make sure Python is installed, then run:
 ```bash
-python app.py
+python Convertify.py
